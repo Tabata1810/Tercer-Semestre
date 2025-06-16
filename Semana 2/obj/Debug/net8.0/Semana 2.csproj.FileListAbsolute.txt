@@ -1,0 +1,14 @@
+D:\Tercer-Semestre\Semana 2\bin\Debug\net8.0\Semana 2.exe
+D:\Tercer-Semestre\Semana 2\bin\Debug\net8.0\Semana 2.deps.json
+D:\Tercer-Semestre\Semana 2\bin\Debug\net8.0\Semana 2.runtimeconfig.json
+D:\Tercer-Semestre\Semana 2\bin\Debug\net8.0\Semana 2.dll
+D:\Tercer-Semestre\Semana 2\bin\Debug\net8.0\Semana 2.pdb
+D:\Tercer-Semestre\Semana 2\obj\Debug\net8.0\Semana 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tercer-Semestre\Semana 2\obj\Debug\net8.0\Semana 2.AssemblyInfoInputs.cache
+D:\Tercer-Semestre\Semana 2\obj\Debug\net8.0\Semana 2.AssemblyInfo.cs
+D:\Tercer-Semestre\Semana 2\obj\Debug\net8.0\Semana 2.csproj.CoreCompileInputs.cache
+D:\Tercer-Semestre\Semana 2\obj\Debug\net8.0\Semana 2.dll
+D:\Tercer-Semestre\Semana 2\obj\Debug\net8.0\refint\Semana 2.dll
+D:\Tercer-Semestre\Semana 2\obj\Debug\net8.0\Semana 2.pdb
+D:\Tercer-Semestre\Semana 2\obj\Debug\net8.0\Semana 2.genruntimeconfig.cache
+D:\Tercer-Semestre\Semana 2\obj\Debug\net8.0\ref\Semana 2.dll
