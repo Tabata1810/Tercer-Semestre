@@ -1,0 +1,15 @@
+D:\Tercer-Semestre\Semana 3\bin\Debug\net8.0\Semana 3.exe
+D:\Tercer-Semestre\Semana 3\bin\Debug\net8.0\Semana 3.deps.json
+D:\Tercer-Semestre\Semana 3\bin\Debug\net8.0\Semana 3.runtimeconfig.json
+D:\Tercer-Semestre\Semana 3\bin\Debug\net8.0\Semana 3.dll
+D:\Tercer-Semestre\Semana 3\bin\Debug\net8.0\Semana 3.pdb
+D:\Tercer-Semestre\Semana 3\obj\Debug\net8.0\Semana 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tercer-Semestre\Semana 3\obj\Debug\net8.0\Semana 3.AssemblyInfoInputs.cache
+D:\Tercer-Semestre\Semana 3\obj\Debug\net8.0\Semana 3.AssemblyInfo.cs
+D:\Tercer-Semestre\Semana 3\obj\Debug\net8.0\Semana 3.csproj.CoreCompileInputs.cache
+D:\Tercer-Semestre\Semana 3\obj\Debug\net8.0\Semana 3.sourcelink.json
+D:\Tercer-Semestre\Semana 3\obj\Debug\net8.0\Semana 3.dll
+D:\Tercer-Semestre\Semana 3\obj\Debug\net8.0\refint\Semana 3.dll
+D:\Tercer-Semestre\Semana 3\obj\Debug\net8.0\Semana 3.pdb
+D:\Tercer-Semestre\Semana 3\obj\Debug\net8.0\Semana 3.genruntimeconfig.cache
+D:\Tercer-Semestre\Semana 3\obj\Debug\net8.0\ref\Semana 3.dll
