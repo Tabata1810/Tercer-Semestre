@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tercer-Semestre\\Semana 3\\Semana 3.csproj": {}
+    "C:\\Users\\User\\Desktop\\Tercer-Semestre\\Semana 3\\Semana 3.csproj": {}
   },
   "projects": {
-    "D:\\Tercer-Semestre\\Semana 3\\Semana 3.csproj": {
+    "C:\\Users\\User\\Desktop\\Tercer-Semestre\\Semana 3\\Semana 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tercer-Semestre\\Semana 3\\Semana 3.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Tercer-Semestre\\Semana 3\\Semana 3.csproj",
         "projectName": "Semana 3",
-        "projectPath": "D:\\Tercer-Semestre\\Semana 3\\Semana 3.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Tercer-Semestre\\Semana 3\\Semana 3.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Tercer-Semestre\\Semana 3\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Tercer-Semestre\\Semana 3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
