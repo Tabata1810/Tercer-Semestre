@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Tercer-Semestre\Semana 7\Paréntesis_Balanceados\bin\Debug\net8.0\Paréntesis_Balanceados.exe
+C:\Users\User\Desktop\Tercer-Semestre\Semana 7\Paréntesis_Balanceados\bin\Debug\net8.0\Paréntesis_Balanceados.deps.json
+C:\Users\User\Desktop\Tercer-Semestre\Semana 7\Paréntesis_Balanceados\bin\Debug\net8.0\Paréntesis_Balanceados.runtimeconfig.json
+C:\Users\User\Desktop\Tercer-Semestre\Semana 7\Paréntesis_Balanceados\bin\Debug\net8.0\Paréntesis_Balanceados.dll
+C:\Users\User\Desktop\Tercer-Semestre\Semana 7\Paréntesis_Balanceados\bin\Debug\net8.0\Paréntesis_Balanceados.pdb
+C:\Users\User\Desktop\Tercer-Semestre\Semana 7\Paréntesis_Balanceados\obj\Debug\net8.0\Paréntesis_Balanceados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tercer-Semestre\Semana 7\Paréntesis_Balanceados\obj\Debug\net8.0\Paréntesis_Balanceados.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tercer-Semestre\Semana 7\Paréntesis_Balanceados\obj\Debug\net8.0\Paréntesis_Balanceados.AssemblyInfo.cs
+C:\Users\User\Desktop\Tercer-Semestre\Semana 7\Paréntesis_Balanceados\obj\Debug\net8.0\Paréntesis_Balanceados.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tercer-Semestre\Semana 7\Paréntesis_Balanceados\obj\Debug\net8.0\Paréntesis_Balanceados.sourcelink.json
+C:\Users\User\Desktop\Tercer-Semestre\Semana 7\Paréntesis_Balanceados\obj\Debug\net8.0\Paréntesis_Balanceados.dll
+C:\Users\User\Desktop\Tercer-Semestre\Semana 7\Paréntesis_Balanceados\obj\Debug\net8.0\refint\Paréntesis_Balanceados.dll
+C:\Users\User\Desktop\Tercer-Semestre\Semana 7\Paréntesis_Balanceados\obj\Debug\net8.0\Paréntesis_Balanceados.pdb
+C:\Users\User\Desktop\Tercer-Semestre\Semana 7\Paréntesis_Balanceados\obj\Debug\net8.0\Paréntesis_Balanceados.genruntimeconfig.cache
+C:\Users\User\Desktop\Tercer-Semestre\Semana 7\Paréntesis_Balanceados\obj\Debug\net8.0\ref\Paréntesis_Balanceados.dll

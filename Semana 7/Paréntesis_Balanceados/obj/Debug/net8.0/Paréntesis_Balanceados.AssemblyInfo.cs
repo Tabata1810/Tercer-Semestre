@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Semana 2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Paréntesis_Balanceados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d99b40890c2a762440400dc6ac1d3732bb60d0f0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Semana 2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Semana 2")]
+[assembly: System.Reflection.AssemblyProductAttribute("Paréntesis_Balanceados")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Paréntesis_Balanceados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
